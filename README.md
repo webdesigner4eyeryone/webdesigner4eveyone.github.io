@@ -1,2 +1,2 @@
-# webdesigner4eveyone.github.io
+# webdesigner4everyone.github.io
 The website for design for eyeryone
